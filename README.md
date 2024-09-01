@@ -4,4 +4,4 @@ Model Building with Multiple Algorithms: Several machine learning algorithms hav
 
 Ensemble Techniques and Voting: To improve the classifier's performance, ensemble techniques such as voting have been utilized. In this approach, predictions from multiple models are combined to create a more accurate and robust classifier. By leveraging the strengths of different algorithms, the ensemble model can achieve better overall performance than any single model alone, enhancing the system's ability to correctly classify spam and non-spam messages.
 
-Frontend Development with Streamlit in PyCharm: The system's user interface is developed using Streamlit in the PyCharm environment, providing an interactive platform for users to input messages and receive real-time spam classification results. The frontend is designed to be user-friendly and intuitive, allowing users to easily test the classifier with their messages and understand the results. Streamlit's seamless integration with Python allows for quick deployment and iterative development, making it ideal for building interactive machine-learning applications.
+
